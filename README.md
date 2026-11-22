@@ -4,7 +4,7 @@ A colorful 2D platform adventure built with **Flutter** and the **Flame engine**
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Flame](https://img.shields.io/badge/Flame-1.38.2-orange)](https://flame-engine.org)
-[![License](https://img.shields.io/badge/license-Unlicensed-lightgrey)](#license)
+
 
 ## Features
 
@@ -177,7 +177,7 @@ The project was also achieved with guidance from **Spellthorn's tutorials**.
 
 ## License
 
-This repository currently does not contain a license. All rights are reserved by the author unless a license is added in the future.
+MIT
 
 ## Author
 
