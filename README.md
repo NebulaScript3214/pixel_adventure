@@ -16,7 +16,7 @@ A colorful 2D platform adventure built with **Flutter** and the **Flame engine**
 - Animated checkpoints that advance to the next level
 - Scrolling-style pixel backgrounds
 - Character, item, enemy, terrain, and HUD sprite animations
-- Android, iOS, web, Windows, macOS, and Linux support
+- Android, web, and Windows support
 
 ## Gameplay
 
@@ -139,6 +139,12 @@ flutter run -d linux
 ```
 
 Use `flutter devices` to see the available targets on your system.
+
+## 📱 Android APK
+
+[**Download the latest Android APK**](https://github.com/NebulaScript3214/pixel_adventure/releases/latest)
+
+
 
 ### Development
 
