@@ -193,7 +193,7 @@ The game loads Tiled `.tmx` files from `assets/tiles/` and uses object and colli
 
 ## Acknowledgements
 
-Special thanks to **سالم السومحي** for supervising this project.
+Special thanks to **Salem Al-Soumhi** for supervising this project.
 
 The project was also achieved with guidance from **Spellthorn's tutorials**.
 
