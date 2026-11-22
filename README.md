@@ -5,7 +5,6 @@ A colorful 2D platform adventure built with **Flutter** and the **Flame engine**
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Flame](https://img.shields.io/badge/Flame-1.38.2-orange)](https://flame-engine.org)
 
-
 ## Features
 
 - Responsive 2D platformer movement with fixed-timestep physics
@@ -28,8 +27,6 @@ A colorful 2D platform adventure built with **Flutter** and the **Flame engine**
 - Stomp chickens from above to defeat them
 - Reach a checkpoint to enter the next level
 
-> Touch devices display an on-screen joystick and jump button. Desktop and web builds support the keyboard controls below.
-
 ## Controls
 
 | Action | Keyboard | Touch |
@@ -37,6 +34,25 @@ A colorful 2D platform adventure built with **Flutter** and the **Flame engine**
 | Move left | `A` or `←` | Joystick left |
 | Move right | `D` or `→` | Joystick right |
 | Jump | `Space` | Jump button |
+
+### Choosing the input mode
+
+In `lib/pixel_adventure.dart`, set:
+
+```dart
+bool showControls = true;
+```
+
+- `true` shows the joystick and jump button for **touch controls**.
+- `false` hides them and enables **keyboard controls**.
+
+For keyboard play, change the value to:
+
+```dart
+bool showControls = false;
+```
+
+> Touch controls are intended for mobile and touch devices. Keyboard play requires `showControls` to be `false`.
 
 ## Tech Stack
 
@@ -180,5 +196,6 @@ The project was also achieved with guidance from **Spellthorn's tutorials**.
 MIT
 
 ## Author
-Ahmad Amin
+
+Ahmad Amin  
 Created by [NebulaScript3214](https://github.com/NebulaScript3214).
