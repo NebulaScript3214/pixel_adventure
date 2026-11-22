@@ -169,6 +169,12 @@ The game loads Tiled `.tmx` files from `assets/tiles/` and uses object and colli
 | Fruit | Tiled object name determines the fruit sprite |
 | Collision | `Platform` class creates a one-way platform; other classes create solid blocks |
 
+## Acknowledgements
+
+Special thanks to **سالم السومحي** for supervising this project.
+
+The project was also achieved with guidance from **Spellthorn's tutorials**.
+
 ## License
 
 This repository currently does not contain a license. All rights are reserved by the author unless a license is added in the future.
