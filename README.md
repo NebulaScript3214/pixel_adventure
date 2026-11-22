@@ -180,5 +180,5 @@ The project was also achieved with guidance from **Spellthorn's tutorials**.
 MIT
 
 ## Author
-
+Ahmad Amin
 Created by [NebulaScript3214](https://github.com/NebulaScript3214).
